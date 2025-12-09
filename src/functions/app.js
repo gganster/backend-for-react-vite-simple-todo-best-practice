@@ -84,7 +84,7 @@ app.http('status', {
           status: 'unhealthy',
           database: 'disconnected',
           error: error.message
-        }
+        
       };
     }
   }
