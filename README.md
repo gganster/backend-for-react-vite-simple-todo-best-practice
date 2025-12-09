@@ -1,6 +1,6 @@
 # API Tasks - Documentation
 
-API REST simple pour gérer des tâches avec Express.js.
+API REST simple pour gérer des tâches avec Express.js
 
 ## Installation
 
